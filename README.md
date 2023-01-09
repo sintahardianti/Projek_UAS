@@ -1,4 +1,4 @@
-# Projek_UAS
+# Projek UAS
 
 ## Nama : Sinta Hardianti Wijaya
 
